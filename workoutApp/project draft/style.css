@@ -1,0 +1,238 @@
+/* page background */
+body {
+    background-color: #5e86b3;
+}
+
+/* Navigation bar styling */
+.mobile-nav {
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #F1F1F1;
+}
+
+.mobile-nav img, .mobile-nav span {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.navigation {
+    background-color: #D3D3D3;
+}
+
+.nav-item {
+    color: white;
+    padding: 14px 16px;
+    margin-right: auto;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+}
+
+.nav-item:hover {
+    color: white;
+    background-color: black;
+}
+
+.container-slogan {
+    display: none;
+}
+
+/* main content styling */
+.step-visual, .step-text {
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    align-content: flex-start;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.step-visual a {
+    font-size: 5px;
+}
+
+.step-text {
+    width: 50%;
+    text-align: center;
+}
+
+.container-step {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    justify-content: space-evenly;
+    padding-bottom: 1.5rem;
+}
+
+.viz-first {
+    flex-direction: row-reverse;
+}
+
+/* style footer */
+footer {
+    background-color: #F1F1F1;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    align-content: flex-start;
+    align-items: center;
+    align-content: center;
+    padding-top: 50px;
+}
+
+.container-contact p {
+    display: inline;
+}
+
+/* login page styling */
+.login-background {
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(159,159,159,1) 50%, rgba(0,0,0,1) 100%);
+}
+
+.logo {
+    margin-left: .5rem;
+    margin-bottom: 7rem;
+}
+
+.credential {
+    display: flex;
+    flex-flow: column wrap;
+    align-items: flex-start;
+    padding-bottom: 1rem;
+}
+
+label {
+    font-family: 'Montserrat', serif, sans-serif;
+    font-size: xx-small;
+    color: black;
+    letter-spacing: 1px;
+}
+
+.cred {
+    border: none;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.logbtn {
+    background-color: #FF007F;
+    border: none;
+    border-radius: 12px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    color: white;
+    font-family: 'Montserrat', serif, sans-serif;
+    font-size: x-small;
+    padding: 5px 20px;
+}
+
+.logbtn:hover {
+    background-color: #FCA7D1;
+}
+
+.buttons a {
+    text-decoration: none;
+    color: white;
+    font-size: xx-small;
+    margin-left: 1rem;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* performance tracking page style */
+.head {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin: .5rem;
+}
+
+.goals-head a {
+    text-decoration: none;
+    color: white;
+}
+
+.goal {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #F1F1F1;
+    width: 50%;
+    text-align: center;
+    font-size: small;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: .5px;
+}
+
+.gp-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.search-bar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.progress p, .progress-bar p {
+    font-size: xx-small;
+}
+
+.progress {
+    display: flex;
+    flex-direction: row;
+    background: none;
+    margin: 1rem;
+}
+
+.progress-bar {
+    height: 2rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+.container-quiz {
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
+.question-head {
+    text-align: center;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    text-decoration: underline;
+}
+
+.quiz-button {
+    text-align: center;
+    background-color: #D3D3D3;
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+}
+
+.quiz-results {
+    display: flex;
+}
+
+.quiz-results div {
+    justify-content: space-around;
+}
+
+.ex-list {
+    padding: 0 0 0 2em;
+}

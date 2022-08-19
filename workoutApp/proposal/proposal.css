@@ -1,0 +1,12 @@
+header {
+    font-family: 'Dela Gothic One', 'Sans-Serif';
+    text-align: center;
+    font-size: 30px;
+  }
+
+body {
+    background-color: rgb(240, 225, 187);
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }

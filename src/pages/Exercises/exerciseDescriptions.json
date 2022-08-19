@@ -1,0 +1,92 @@
+[
+  {
+    "id": "dumbbell-row",
+    "name": "Dumbbell Row",
+    "description": "Grab the desired dumbbell and place it next to a standard weight bench.\nPlace your knee and outstretched hand on the bench, and bend forward until your upper body is parallel to the floor.\nDo your best to maintain a natural flat posture throughout the entire time.\nReach down to grab the dumbbell, and immediately resume a flat neutral position of the spine.\nPull the dumbbell up to your side, and then lower it back down.\nRepeat for the desired amount of repetitions.",
+    "isReps": true
+  },
+  {
+    "id": "dumbbell-overhead-press",
+    "name": "Dumbbell Overhead Press",
+    "description": "Grab a pair of dumbbells of a desired weight. Sit on the bench holding two dumbbells at shoulder height with an overhand grip. \nPress the weights up above your head until your arms are fully extended. Return slowly to the start position.\n",
+    "isReps": true
+  },
+  {
+    "id": "bulgarian-split-squat",
+    "name": "Bulgarian Split Squat",
+    "description": "Find yourself a step, bench or any other contraption that you can rest a foot on, it needs to be about knee height.\nGet into a forward lunge position with torso upright, core braced and hips square to your body, with your back foot elevated on the bench. Your leading leg should be a few feet or so in front of bench.\nLower until your front thigh is almost horizontal, keeping your knee in line with your foot. Don't let your front knee travel beyond your toes.\nDrive up through your front heel back to the starting position, again keeping your movements measured.",
+    "isReps": true
+  },
+  {
+    "id": "leg-press",
+    "name": "Leg Press",
+    "description": "Sit down on a leg press machine and place your legs on the platform in front of you. Your feet should be positioned approximately a foot to one and half feet apart.\nLower the safety bars holding the platform in place. Press the platform all the way up until your legs are fully extended, without locking your knees. This is the starting position.\nAs you inhale, slowly lower the platform until your upper and lower legs make a 90-degree angle.\nPush with the heels of your feet and use your quadriceps to go back to the starting position. Exhale as you do so.\nRepeat for the number of reps in your set. Make sure that the safety pins are locked properly once you have finished.",
+    "isReps": true
+  },
+  {
+    "id": "push-up",
+    "name": "Push Up",
+    "description": "Get down on all fours, placing your hands slightly wider than your shoulders.\nStraighten your arms and legs.\nLower your body until your chest nearly touches the floor.\nPause, then push yourself back up.\nRepeat",
+    "isReps": true
+  },
+  {
+    "id": "bodyweight-dips",
+    "name": "Bodyweight Dips",
+    "description": "Sit on the floor with your knees raised, flat feet, and back slightly reclined.\nPlace your hand so your fingers are pointed towards your heels.\nRaise buttocks off the ground supporting your weight with your hands and feet.\nBend elbows slightly, lowering your body into a dip, then press back up.",
+    "isReps": true
+  },
+  {
+    "id": "bodyweight-squat",
+    "name": "Bodyweight Squat",
+    "description": "Stand with your feet shoulder-width apart and toes facing slightly outward. You can keep your arms at your sides, place your hands on your hips, or clasp your hands in front of you.\nKeeping your core tight and chest up, push your hips back as if you’re sitting in a chair. \nStop when your thighs are parallel to the floor and pause for a moment. \nPush through your heels until you return to the starting position.",
+    "isReps": true
+  },
+  {
+    "id": "side-lunge",
+    "name": "Side Lunge",
+    "description": "Stand with your feet shoulder-width apart and your arms in front of you for balance.\nTake a big step to the right and begin pushing your hips back as you bend your right knee to assume a squat position.\nSquat down as far as is comfortable, or until your thigh is parallel to the floor.\nReturn to the starting position and repeat on the other side.",
+    "isReps": true
+  },
+  {
+    "id": "lunge",
+    "name": "Lunge",
+    "description": "Stand tall with your feet shoulder-width apart. Put your hands on your hips, hold them at your chest, or — if you want to use dumbbells — hold them at your sides.\nStep forward with one foot and sink down until your front knee is at 90 degrees and your back shin is parallel to the floor. \nPause for a moment before taking a lunging step forward with your opposite foot.\nContinue alternating sides as you lunge forward.",
+    "isReps": true
+  },
+  {
+    "id": "abs-crunch",
+    "name": "Abs Crunch",
+    "description": "Lie down on your back. Plant your feet on the floor, hip-width apart. Bend your knees and place your arms across your chest. Contract your abs and inhale.\nExhale and lift your upper body, keeping your head and neck relaxed.\nInhale and return to the starting position.",
+    "isReps": true
+  },
+  {
+    "id": "plank",
+    "name": "Plank",
+    "description": "Start in a press-up position.\nBend your elbows until your forearms are on the floor beneath your shoulders so your body is in a straight line from your feet to your head.\nKeep your abs tight and look at the space between your hands to ensure a neutral spine position.\nHold the position for as long as you can.",
+    "isReps": false
+  },
+  {
+    "id": "v-hold",
+    "name": "V Hold",
+    "description": "Contract your abdominal muscles and core slowly and lift your legs up to an extended position at a 45-degree angle with your torso.\nReach your arms straight forward or reach up toward your shins as you are able. It's important to maintain good core posture and a strong spine throughout the movement and to avoid rounding the shoulders forward. Don't hold your breath—continue to breathe deeply during the movement.\nHold this V-shaped position for several seconds to begin. As you get stronger, hold the position longer.\nReturn to your starting position slowly while continuing to keep your abs engaged and tight.",
+    "isReps": false
+  },
+  {
+    "id": "jumping-jacks",
+    "name": "Jumping Jacks",
+    "description": "Stand upright with your legs together, arms at your sides.\nBend your knees slightly, and jump into the air. \nAs you jump, spread your legs to be about shoulder-width apart. Stretch your arms out and over your head. \nJump back to the starting position.\nRepeat.",
+    "isReps": false
+  },
+  {
+    "id": "mountain-climbers",
+    "name": "Mountain Climbers",
+    "description": "Get into a plank position, making sure to distribute your weight evenly between your hands and your toes.\nCheck your form—your hands should be about shoulder-width apart, back flat, abs engaged, and head in alignment.\nPull your right knee into your chest as far as you can.\nSwitch legs, pulling one knee out and bringing the other knee in.\nKeep your hips down and run your knees in and out as far and as fast as you can. Alternate inhaling and exhaling with each leg change.",
+    "isReps": false
+  },
+  {
+    "id": "skater-jumps",
+    "name": "Skater Jumps",
+    "description": "Start standing with your legs hip-width apart. Bend one leg behind the supporting leg at a slight angle, while maintaining weight and balance on the supporting leg.\nAs you exhale, simultaneously swing your arms out and leap over to the opposite side.\nShift your weight and land with the opposite leg behind you. Be sure to land on the ball of your foot with your hips and knees bent slightly.\nRepeat this side-to-side motion, transferring your weight each time. Continue to alternate the arms and legs as you shift side to side in the skating motion.",
+    "isReps": false
+  }
+]

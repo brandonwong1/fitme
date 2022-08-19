@@ -1,0 +1,252 @@
+html {
+    font-family: 'Helvetica', sans-serif;
+    background-color: #f1f1f3 !important;
+}
+
+#background {
+    height: 100vh;
+    width: 100vw;
+    background-color: #f1f1f3;
+    display: flex;
+    flex-grow: 1;
+}
+
+nav {
+    background-color: #f1f1f3;
+}
+
+/* Making sure container adheres to flexbox properties and fills the entire screen. */
+.container {
+    display: flex;
+    flex-grow: 1;
+}
+
+
+/* Additional Utility Classes */
+.title {
+    color: #232222;
+    font-size: 1.5em;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.text-subtext {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    font-size: 1.2rem;
+    color: #525252;
+}
+
+.w-full {
+    width: 100%;
+}
+
+.h-full {
+    height: 100%;
+}
+
+.App {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+    background-color: #f1f1f3 !important;
+}
+
+
+form {
+    background-color: #eeeaea;
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+form > input {
+    background-color: #f1f1f3;
+}
+
+label {
+    font-weight: bold;
+    color: #525252;
+}
+
+small {
+    font-size: 0.8rem;
+    font-weight: bolder;
+    color: #525252;
+}
+
+.background-main-purple {
+    background-color: #7c4dff !important;
+}
+
+.icon-logo {
+    max-width: 100px;
+    max-height: 100px;
+    border-radius: 5px;
+}
+
+.flex-shrink {
+    flex-shrink: 1 !important;
+}
+
+/* Use this utility class to remove the underline
+and blue text coloring from the React <Link> component.
+*/
+.link {
+    text-decoration: none !important;
+    color: inherit !important;
+}
+
+.back-carrot-navigator {
+    font-size: 0.75rem !important;
+    margin-right: 2px !important;
+}
+
+.back-carrot-navigator:hover {
+    font-size: 0.75rem !important;
+    text-decoration: underline;
+    cursor: pointer;
+    margin-right: 2px !important;
+}
+
+.cursor-pointer:hover {
+    cursor: pointer !important;
+}
+
+#navbar-brand-logo {
+    max-height: 50px;
+    max-width: 50px;
+    border-radius: 5px;
+}
+
+.footer-item {
+    font-family: 'Arial', monospace;
+    font-weight: bolder;
+}
+
+.no-text-decoration {
+    text-decoration: none !important;
+}
+
+.inherit-text-color {
+    color: inherit !important;
+}
+
+.h-10-spacer {
+    height: 10rem !important;
+}
+
+.h-2-spacer {
+    height: 2rem !important;
+}
+
+.h-1-spacer {
+    height: 1rem !important;
+}
+
+.h-4-spacer {
+    height: 4rem !important;
+}
+
+.h-5-spacer {
+    height: 5rem !important;
+}
+
+.mw-50 {
+    max-width: 50% !important;
+}
+
+.card-image-frame {
+    height: 150px;
+    width: 150px;
+}
+
+.card-image {
+    max-height: 150px;
+    max-width: 150px;
+}
+
+.card-image-frame {
+    height: 150px;
+    width: 150px;
+}
+
+.card-image {
+    max-height: 150px;
+    max-width: 150px;
+}
+
+
+
+.card-container {
+    width: 100%;
+}
+
+
+
+@media (min-width: 993px) {
+    .card-image {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+.card-tag {
+    /*padding-right: 2px;*/
+    margin: 1px;
+}
+
+/* Make a class to add hover css to emboss the tags */
+.card-tag:hover {
+    /*color: rgba(126, 125, 125, 0.45) !important;*/
+    cursor: pointer;
+    color: #3b3737 !important;
+    border: 1px solid #3b3737 !important;
+    border-radius: 5px;
+    margin: 0;
+}
+
+.tiny-exercise-image {
+    max-height: 5%;
+    max-width: 5%;
+}
+
+.main-exercise-image {
+    max-height: 50%;
+    max-width: 50%;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.active-exercise-border {
+    border: 3px solid #7c4dff !important;
+    border-radius: 5px;
+}
+
+.inactive-exercise-border {
+    border: 3px solid inherit !important;
+    border-radius: 5px;
+}
+
+.card-text-exercise {
+    font-size: 1.2rem;
+    color: #525252;
+}
+
+.text-red {
+    color: red !important;
+}
+
+.horizontal-spacer-2 {
+    width: 2rem !important;
+}
+
+.vertical-spacer-2 {
+    height: 2rem !important;
+}
+
+.text-main-purple {
+    color: #7c4dff !important;
+}
